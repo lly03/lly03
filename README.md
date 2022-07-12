@@ -8,7 +8,7 @@ Interested in my work? <a href="https://lly03.github.io/" target="_blank">Check 
 ## :pushpin: Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lly03&layout=compact&theme=cobalt2&text_color=569CD6&title_color=FEC500&repo=travel-app)](https://github.com/lly03/travel-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lly03&layout=compact&theme=cobalt2&text_color=569CD6&title_color=FEC500&repo=evaluate-news-nlp)](https://github.com/lly03/evaluate-news-nlp)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-mei&layout=compact&theme=cobalt2&text_color=569CD6&title_color=FEC500&repo=Fish-and-Chips-Project)](https://github.com/g-mei/Fish-and-Chips-Project)
 
 ## :bar_chart: GitHub's Stats 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lly03&layout=compact&theme=cobalt2&text_color=569CD6&title_color=FEC500)](https://github.com/lly03/github-readme-stats)
